@@ -15,7 +15,7 @@
     - Es necesario obtener la IP del equipo que será el servidor. Para lograrlo se deberá utilizar el siguiente comando dependendiendo del sistema operativo.
       ```
       Windows: ipconfig
-      Linux: ifcongif
+      Linux: ifconfig
       MacOS: ifconfig | grep inet
       ```
  3. Los clientes deberán ejecutar el archivo con ese nombre. El juego les pedirá ingresar la IP del servidor y un nick con el que se identificarán en el juego.
